@@ -1,15 +1,19 @@
-# h1
-## h2
-###### h6
+### Guia básica de markdown
+# Soy un h1
+## Soy un h3
+###### Soy un h6
 
 I'm un parrafo
 
-
+1. Mes
+   * Enero
+   * Febrero
+   * Diciembre
 * JS
-  1. Funciones
-  2. asyn - await
-  3. map
-  4. for
+  * Funciones
+  * asyn - await
+  * map
+  * for
 * Vue
 * NodeJS
     * Expressjs
